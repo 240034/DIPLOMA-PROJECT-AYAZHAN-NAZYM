@@ -56,13 +56,13 @@ Changes will be developed in separate branches and reviewed by the other team me
 | User discussions and findings | [Add repository link] |
 | Literature review | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/Source.docx] |
 | Existing system comparison | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/existing-system-comparison.md] |
-| Technology comparison | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/Criterion.docx] |
+| Technology comparison |[https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/technology-comparison.md] |
 | Requirements and acceptance criteria | [Add repository link] |
 | Architecture and editable diagram sources | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/tree/main/diagrams] |
 | Database design | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/database-design.md] |
 | UX prototype | [no link for now] |
 | Verification and evaluation plan | [Add repository link] |
-| Risks and milestones | [no link for now] |
+| Risks and milestones | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/risks-and-milestones.md] |
 | Supervisor feedback and revisions | [no link for now] |
 
 ## Setup and Execution
