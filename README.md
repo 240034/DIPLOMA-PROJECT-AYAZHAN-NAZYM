@@ -40,3 +40,45 @@ To design, implement, and evaluate a web-based system that supports volunteer re
 - Schedules, task updates, and notifications.
 - Attendance and participation records.
 A native mobile application and external university system integrations are outside the initial scope.
+
+## Project Management
+
+- **Clickup project:** [(https://app.clickup.com/1100310000028125/v/b/z8q7hb3jex-398)]
+- **Figma prototype:** []
+
+Each meaningful work item will have an assigned team member, priority, expected outcome, acceptance criteria, and deadline. Tasks will link to the relevant commits or pull requests.
+
+Changes will be developed in separate branches and reviewed by the other team member before merging into `main`.
+
+| Document | Link |
+|----------|------|
+| Project proposal and scope | [README.md] |
+| User discussions and findings | [Add repository link] |
+| Literature review | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/Source.docx] |
+| Existing system comparison | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/existing-system-comparison.md] |
+| Technology comparison | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/Criterion.docx] |
+| Requirements and acceptance criteria | [Add repository link] |
+| Architecture and editable diagram sources | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/tree/main/diagrams] |
+| Database design | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/database-design.md] |
+| UX prototype | [no link for now] |
+| Verification and evaluation plan | [Add repository link] |
+| Risks and milestones | [no link for now] |
+| Supervisor feedback and revisions | [no link for now] |
+
+## Setup and Execution
+
+Setup and execution instructions will be added when the first runnable implementation is available. They will include prerequisites, dependency installation, environment configuration, database initialization, and commands for starting the application.
+
+Configuration examples will use placeholder values. Passwords, API keys, and other confidential information must not be committed.
+
+## Testing
+
+Testing instructions and executable commands will be added alongside the implementation.
+
+Planned verification includes:
+
+- Unit tests for application validation, matching logic, and assignment rules.
+- Integration tests for authentication, permissions, applications, and attendance records.
+- End-to-end tests for volunteer and organizer workflows.
+- Usability testing with representative users.
+- Matching evaluation against a simple baseline using organizer-reviewed judgments.
