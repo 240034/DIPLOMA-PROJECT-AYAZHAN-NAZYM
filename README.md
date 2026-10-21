@@ -57,7 +57,7 @@ Changes will be developed in separate branches and reviewed by the other team me
 | Literature review | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/Source.docx] |
 | Existing system comparison | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/existing-system-comparison.md] |
 | Technology comparison |[https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/technology-comparison.md] |
-| Requirements and acceptance criteria | [Add repository link] |
+| Requirements and acceptance criteria | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/Acceptance%20Criteria.pdf] |
 | Architecture and editable diagram sources | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/tree/main/diagrams] |
 | Database design | [https://github.com/240034/DIPLOMA-PROJECT-AYAZHAN-NAZYM/blob/main/docs/database-design.md] |
 | UX prototype | [no link for now] |
